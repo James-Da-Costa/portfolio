@@ -722,7 +722,7 @@ transform: translateY(-50%);
 #box {
 	  display: flex;
       width: max-width;
-      height: 190px;
+      height: 150px;
       background-color: #349C56;
 	  margin-top: 100px;
       align-items: center;
